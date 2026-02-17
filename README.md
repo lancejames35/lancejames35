@@ -20,5 +20,6 @@ I build AI-powered systems that solve real business problems. Not demos, not the
 
 - 🐦 [X/Twitter](https://x.com/LanceSeamans)
 - 🦋 [Bluesky](https://bsky.app/profile/lanceseamans.bsky.social)
-- 💼 [LinkedIn](https://linkedin.com/in/lance-seamans/
+- 💼 [LinkedIn](https://www.linkedin.com/in/lance-seamans/)
+- 📰 [Data & Deploy Newsletter](https://data-deploy.beehiiv.com)
 - 🌐 [AIY Global](https://aiyglobal.com)
