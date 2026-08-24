@@ -1,4 +1,4 @@
-# Hey, I'm Lance 👋
+# Hey, I'm Lance
 
 **Founder of AIY Global** | Data Engineering | Business Intelligence | AI Implementation
 
